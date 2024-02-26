@@ -4,7 +4,7 @@ Hi my name is Michael Arnold
 Full Stack Developer
 --------------------
 
-Experienced (10+ years) C# developer with a solid background in front/backend development, complemented by proficiency in React, JavaScript, and Node.js. Passionate about continuous learning and staying updated with emerging technologies to drive innovative solutions and enhance user experiences.
+Experienced (10+ years) C#, React, Node.js developer with a solid background in front/backend development. Passionate about continuous learning and staying updated with emerging technologies to drive innovative solutions and enhance user experiences.
 
 *   I'm based in Riverview, FL (near Tampa)
 *   See my portfolio at [Face detection APP using React with Node.js API backend and POSTGRESQL hosted in Heroku with automated builds and deploys via Github.](http://smart-brain-b76422ab6600.herokuapp.com/)
