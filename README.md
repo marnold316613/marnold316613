@@ -20,7 +20,7 @@ Experienced (15+ years) C#/ASP.NET Core, React/Angular/WPF, Node.js developer wi
   Tech stack: AWS Lambda (C#), Cognito, DynamoDB, PostgreSQL, Angular, EC2, S3.  
   [Visit Gulfcoast CloudForge](https://gulfcoastcloudforge.com)
 
-- **Face Detection API**  Node.js, React, Clarifai AI | [smart-brain GitHub](https://github.com/marnold316613/smart-brain) |
+- **Face Detection API**  Node.js, React, Clarifai AI | [AI Face Recognition Front-End React](https://github.com/marnold316613/FaceRecognition)) | [AI Face Recognition Back-End Node.js](https://github.com/marnold316613/FaceRecognition-API))
 
 ### ⚙️ Skills
 
