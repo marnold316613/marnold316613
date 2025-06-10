@@ -23,9 +23,31 @@ Building compliance-focused cloud solutions for healthcare and SMBs.
 Tech stack: AWS Lambda (C#), Cognito, DynamoDB, PostgreSQL, Angular, EC2, S3
 
 ### **AI Projects (Private Repos – Available on Request):**
-- ChatGPT-powered chatbot for healthcare Q&A and automated workflows  
-- OpenAI Whisper API for audio transcription and automated text summarization  
-- Current Project: **Spine Lesion Classification from DICOM images** using PyTorch, pydicom, and scikit-learn
+### 🗣️ ChatGPT-Powered HIPAA Chatbot with Vector Store (FAISS)  
+_Business Knowledge Retrieval / Private LLM Integration_
+
+- Built a secure, domain-specific chatbot for healthcare using OpenAI's GPT API and a custom vector database (FAISS) of U.S. HIPAA regulatory text.  
+- Scraped and tokenized HIPAA legal documents, then embedded them to enable accurate, source-grounded NLP responses while avoiding hallucinations.  
+- Designed to demonstrate how **any internal document set** can be transformed into a **private, queryable knowledge base** using LLMs, enhancing business efficiency and compliance.  
+- Enabled accurate internal Q&A on regulatory and operational matters, with potential for broader enterprise use across policy, training, and SOPs.
+
+### 🔊 Offline Audio Transcription with Whisper for Privacy-Safe Summarization  
+_OpenAI Whisper / Secure Local NLP Pipeline_
+
+- Developed a privacy-focused transcription system using the open-source Whisper model locally in Python to eliminate cloud dependencies and reduce cost.  
+- Automatically transcribes voice recordings (e.g., clinical dictation, internal meetings) into text, followed by AI-driven summarization via GPT.  
+- Chosen to protect **sensitive or regulated audio data** from exposure while maintaining high transcription accuracy — particularly useful for **healthcare, legal, or internal operations**.  
+- Demonstrates practical use of **LLM and ASR models together in a secure, cost-efficient pipeline**.
+
+ 
+### 🧠 Spine Lesion Classification from DICOM Imaging  
+_Medical Imaging / AI Model Training_
+
+- Developing a deep learning model to classify spinal abnormalities using publicly available DICOM datasets of spinal X-rays and MRIs.  
+- Downloaded and organized over 8,000 annotated DICOM images and corresponding radiologist notes, preparing them for supervised learning.  
+- Creating a pipeline to **index, preprocess, and train** a custom image classification model using PyTorch, pydicom, and scikit-learn.  
+- Designed to demonstrate how AI can assist in radiological workflows by automating lesion detection and prioritizing clinical review.  
+- Highlights the use of open medical datasets for real-world AI training while ensuring reproducibility and future fine-tuning capabilities.
 
 🔗 [Visit Gulfcoast CloudForge](https://gulfcoastcloudforge.com)
 
