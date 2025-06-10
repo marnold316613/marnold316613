@@ -22,7 +22,7 @@ Experienced (15+ years) C#/ASP.NET Core, React/Angular/WPF, and Node.js develope
 Building compliance-focused cloud solutions for healthcare and SMBs.  
 Tech stack: AWS Lambda (C#), Cognito, DynamoDB, PostgreSQL, Angular, EC2, S3
 
-**AI Projects (Private Repos – Available on Request):**
+### **AI Projects (Private Repos – Available on Request):**
 - ChatGPT-powered chatbot for healthcare Q&A and automated workflows  
 - OpenAI Whisper API for audio transcription and automated text summarization  
 - Current Project: **Spine Lesion Classification from DICOM images** using PyTorch, pydicom, and scikit-learn
