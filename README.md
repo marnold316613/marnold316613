@@ -1,26 +1,38 @@
-Hi my name is Michael Arnold
-===============================
+Hi, my name is Michael Arnold
+==============================
 
-Full Stack Developer
---------------------
+Full Stack Developer • Cloud Consultant • AI Integrator
+-------------------------------------------------------
 
-Experienced (15+ years) C#/ASP.NET Core, React/Angular/WPF, Node.js developer with a solid background in front/backend development. Passionate about continuous learning and staying updated with emerging technologies to drive innovative solutions and enhance user experiences.
+Experienced (15+ years) C#/ASP.NET Core, React/Angular/WPF, and Node.js developer with a solid background in front/backend development. Passionate about continuous learning and applying emerging technologies to drive innovative, secure, and scalable solutions.
 
-* 15+ years building **C# / ASP .NET Core**, **Angular**, **React**, **Node.js**, **WPF** & desktop apps  
-* Deep experience integrating **medical** & **retail** hardware (50+ integrations)  
-* Designed and delivered enterprise video & imaging solutions (Avigilon, Milestone, Hikvision, thermal cameras, etc.)  
-* Passionate about **Clean Architecture**, **CQRS**, **microservices**, and **cloud-native** patterns  
-* HIPAA-certified engineer with hands-on AWS (Lambda, Cognito, DynamoDB, RDS) & Azure
-* Experienced in PostgreSQL/MySQL/MS-Sql, DynamoDB (no-sql database)
+- 🔧 15+ years building **C# / ASP.NET Core**, **Angular**, **React**, **Node.js**, **WPF**, and desktop applications  
+- 🔌 Integrated 50+ **medical and retail hardware systems**, including imaging devices, biometric readers, and industrial sensors  
+- 🎥 Built enterprise-grade video and imaging solutions (Avigilon, Milestone, Hikvision, thermal cameras)  
+- 🌐 Strong focus on **Clean Architecture**, **CQRS**, **microservices**, and **cloud-native** patterns  
+- ☁️ HIPAA-certified engineer with extensive hands-on experience in **AWS** (Lambda, Cognito, EC2, S3, API Gateway, DynamoDB, RDS) and **Azure**  
+- 🧠 Active in **AI/NLP projects** using OpenAI (ChatGPT, Whisper), including text summarization, chatbot design, and DICOM-based spinal classification (Python, PyTorch, scikit-learn)  
+- 🗃️ Skilled in **PostgreSQL**, **MySQL**, **MS SQL**, and **NoSQL** databases like DynamoDB  
+
+---
 
 ## 🔭 Current Projects
 
-- **Gulfcoast CloudForge**  
-  Building compliance-focused cloud solutions for healthcare and SMBs.  
-  Tech stack: AWS Lambda (C#), Cognito, DynamoDB, PostgreSQL, Angular, EC2, S3.  
-  [Visit Gulfcoast CloudForge](https://gulfcoastcloudforge.com)
+### **Gulfcoast CloudForge**
+Building compliance-focused cloud solutions for healthcare and SMBs.  
+Tech stack: AWS Lambda (C#), Cognito, DynamoDB, PostgreSQL, Angular, EC2, S3
 
-- **Face Detection API**  Node.js, React, Clarifai AI | [AI Face Recognition Front-End React](https://github.com/marnold316613/FaceRecognition)) | [AI Face Recognition Back-End Node.js](https://github.com/marnold316613/FaceRecognition-API))
+**AI Projects (Private Repos – Available on Request):**
+- ChatGPT-powered chatbot for healthcare Q&A and automated workflows  
+- OpenAI Whisper API for audio transcription and automated text summarization  
+- Current Project: **Spine Lesion Classification from DICOM images** using PyTorch, pydicom, and scikit-learn
+
+🔗 [Visit Gulfcoast CloudForge](https://gulfcoastcloudforge.com)
+
+### **AI Face Detection API**  
+Node.js + Clarifai AI backend and React frontend  
+- [Front-End Repo](https://github.com/marnold316613/FaceRecognition)  
+- [Back-End Repo](https://github.com/marnold316613/FaceRecognition-API)
 
 ### ⚙️ Skills
 
@@ -32,6 +44,8 @@ Experienced (15+ years) C#/ASP.NET Core, React/Angular/WPF, Node.js developer wi
 I'm based in Riverview, FL (near Tampa)
 📧 [michael.arnold.316@outlook.com](mailto:michael.arnold.316@outlook.com)  
 <p align="left"> <a href="https://www.github.com/marnold316613" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/michael-arnold-454a2015" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+📫 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/mikearnold) or check out more projects at [Gulfcoast RAD Group GitHub](https://github.com/GulfcoastRADGroup)
 
 ## 🤝 Let’s Collaborate
 
